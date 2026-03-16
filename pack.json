@@ -1,0 +1,10 @@
+{
+  "name": "A Knight of the Seven Kingdoms Theme",
+  "description": "Music from TV series A Knight of the Seven Kingdoms Theme, Episode Four.",
+  "author": "Holdzzz",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
